@@ -1,10 +1,16 @@
 #EXTM3U
  
-#EXTINF:-1,ELEVEN SPORTS 1 HD 🇵🇹
-http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77961
+#EXTINF:-1, Sport TV1 🇵🇹
+http://15.204.217.195/SPORTTV1/index.m3u8
 
-#EXTINF:-1,ELEVEN SPORTS 2 HD 🇵🇹
-http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77967
+#EXTINF:-1, Sport TV2 🇵🇹
+http://15.204.217.195/SPORTTV2/index.m3u8
+
+#EXTINF:-1, Eleven 1 HD 🇵🇹
+http://conexaoonline.top:80/IVONE123/IVONE321/261002
+
+#EXTINF:-1, Eleven 2 HD 🇵🇹
+http://conexaoonline.top:80/IVONE123/IVONE321/261001
 
 #EXTINF:-1, Eleven 3 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/261000
@@ -17,9 +23,3 @@ http://conexaoonline.top:80/IVONE123/IVONE321/260998
 
 #EXTINF:-1, Eleven 6 HD 🇵🇹
 http://conexaoonline.top:80/IVONE123/IVONE321/260997
-
-#EXTINF:-1, Sport TV1 🇵🇹
-http://15.204.217.195/SPORTTV1/index.m3u8
-
-#EXTINF:-1, Sport TV2 🇵🇹
-http://15.204.217.195/SPORTTV2/index.m3u8
